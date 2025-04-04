@@ -1,0 +1,3 @@
+[submodule "repo-a"]
+	path = repo-a
+	url = git@github.com:LOlollla/repo-a.git
